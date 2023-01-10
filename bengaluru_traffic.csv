@@ -1,0 +1,133 @@
+,Station,Division,Fatal,Killed,Non-Fatal,Injured,Total Cases,Year
+0,"Cubbon Park, Bengaluru",East,2,2,24,28,26,2020
+1,"H.Grounds, Bengaluru",East,6,6,39,34,45,2020
+2,"S.S.Nagar, Bengaluru",East,8,8,51,61,59,2020
+3,"U.Gate, Bengaluru",East,4,5,29,27,33,2020
+4,"Ashoknagar, Bengaluru",East,5,7,35,37,40,2020
+5,"W.Garden, Bengaluru",East,3,3,34,29,37,2020
+6,"Ulsoor, Bengaluru",East,14,14,37,41,51,2020
+7,"Indiranagar, Bengaluru",East,9,9,40,45,49,2020
+8,"F.Town, Bengaluru",East,8,8,11,9,19,2020
+9,"Banasawadi, Bengaluru",East,15,16,76,68,91,2020
+10,"Shivajinagar, Bengaluru",East,1,1,14,10,15,2020
+11,"KG Halli, Bengaluru",East,3,3,17,22,20,2020
+12,"Adugodi, Bengaluru",East,2,2,27,30,29,2020
+13,"Madivala, Bengaluru",East,11,11,34,35,45,2020
+14,"Electronic City, Bengaluru",East,31,31,124,109,155,2020
+15,"Mico layout, Bengaluru",East,10,10,51,42,61,2020
+16,"HuliMavu, Bengaluru",East,16,16,64,74,80,2020
+17,"HSR Layout, Bengaluru",East,15,16,60,86,75,2020
+18,"K.R. Puram, Bengaluru",East,48,50,136,129,184,2020
+19,"Airport, Bengaluru",East,19,19,45,40,64,2020
+20,"White Field, Bengaluru",East,21,22,92,99,113,2020
+21,"Upparpet, Bengaluru",West,2,2,15,15,17,2020
+22,"Chickpet, Bengaluru",West,6,6,30,28,36,2020
+23,"City Market, Bengaluru",West,3,3,6,6,9,2020
+24,"Magadi Road, Bengaluru",West,4,4,21,18,25,2020
+25,"Vijayanagar, Bengaluru",West,8,8,84,76,92,2020
+26,"B.Pura, Bengaluru",West,19,20,87,68,106,2020
+27,"Kamakshipalya, Bengaluru",West,24,26,135,154,159,2020
+28,"Kengeri, Bengaluru",West,22,24,64,88,86,2020
+29,"Malleswaram, Bengaluru",West,8,8,37,34,45,2020
+30,"Rajajinagar, Bengaluru",West,12,12,36,44,48,2020
+31,"Y.Pura, Bengaluru",West,20,20,85,84,105,2020
+32,"Peenya, Bengaluru",West,16,16,110,116,126,2020
+33,"Jalahalli, Bengaluru",West,19,20,53,63,72,2020
+34,"Chamarajapet, Bengaluru",West,6,6,23,25,29,2020
+35,"Basavanagudi, Bengaluru",West,6,6,46,42,52,2020
+36,"Jayanagar, Bengaluru",West,15,15,39,46,54,2020
+37,"Banashankari, Bengaluru",West,12,12,55,54,67,2020
+38,"K. Swamy Layout, Bengaluru",West,37,39,122,130,159,2020
+39,"RT Nagar, Bengaluru",North,9,10,50,41,59,2020
+40,"Hebbala, Bengaluru",North,28,28,81,99,109,2020
+41,"Yelahanka, Bengaluru",North,40,45,155,169,195,2020
+42,"Chikkajala, Bengaluru",North,30,31,152,172,182,2020
+43,"Devanahalli, Bengaluru",North,25,27,88,133,113,2020
+44,"Cubbon Park, Bengaluru",East,4,4,34,35,38,2021
+45,"H.Grounds, Bengaluru",East,2,2,36,38,38,2021
+46,"S.S.Nagar, Bengaluru",East,4,4,60,51,64,2021
+47,"U.Gate, Bengaluru",East,3,3,22,26,25,2021
+48,"Ashoknagar, Bengaluru",East,5,5,37,48,42,2021
+49,"W.Garden, Bengaluru",East,9,9,49,55,58,2021
+50,"Ulsoor, Bengaluru",East,19,19,28,35,47,2021
+51,"Indiranagar, Bengaluru",East,5,5,27,28,32,2021
+52,"F.Town, Bengaluru",East,10,10,9,7,19,2021
+53,"Banasawadi, Bengaluru",East,20,21,79,81,99,2021
+54,"Shivajinagar, Bengaluru",East,3,3,8,5,11,2021
+55,"KG Halli, Bengaluru",East,5,5,17,18,22,2021
+56,"Adugodi, Bengaluru",East,2,8,17,20,19,2021
+57,"Madivala, Bengaluru",East,8,8,46,51,54,2021
+58,"Electronic City, Bengaluru",East,27,30,102,116,129,2021
+59,"Mico layout, Bengaluru",East,9,9,61,60,70,2021
+60,"HuliMavu, Bengaluru",East,6,6,68,71,74,2021
+61,"HSR Layout, Bengaluru",East,15,15,41,49,56,2021
+62,"K.R. Puram, Bengaluru",East,17,18,47,48,64,2021
+63,"Airport, Bengaluru",East,34,35,109,113,143,2021
+64,"White Field, Bengaluru",East,24,24,67,83,91,2021
+65,"Upparpet, Bengaluru",West,4,4,17,18,21,2021
+66,"Chickpet, Bengaluru",West,6,6,24,21,30,2021
+67,"City Market, Bengaluru",West,2,2,5,4,7,2021
+68,"Magadi Road, Bengaluru",West,4,4,24,23,28,2021
+69,"Vijayanagar, Bengaluru",West,8,8,86,96,94,2021
+70,"B.Pura, Bengaluru",West,21,21,100,90,121,2021
+71,"Kamakshipalya, Bengaluru",West,33,34,124,117,157,2021
+72,"Kengeri, Bengaluru",West,22,24,85,82,107,2021
+73,"Malleswaram, Bengaluru",West,6,6,30,32,36,2021
+74,"Rajajinagar, Bengaluru",West,14,14,52,58,66,2021
+75,"Y.Pura, Bengaluru",West,13,14,66,59,79,2021
+76,"Peenya, Bengaluru",West,22,22,103,113,125,2021
+77,"Jalahalli, Bengaluru",West,22,23,68,80,90,2021
+78,"Chamarajapet, Bengaluru",West,6,6,22,24,28,2021
+79,"Basavanagudi, Bengaluru",West,5,5,43,31,48,2021
+80,"Jayanagar, Bengaluru",West,10,10,50,55,60,2021
+81,"Banashankari, Bengaluru",West,13,13,57,58,70,2021
+82,"K. Swamy Layout, Bengaluru",West,45,48,95,129,140,2021
+83,"RT Nagar, Bengaluru",North,10,10,55,50,65,2021
+84,"Hebbala, Bengaluru",North,18,18,97,99,115,2021
+85,"Yelahanka, Bengaluru",North,48,52,124,151,172,2021
+86,"Chikkajala, Bengaluru",North,32,40,157,191,189,2021
+87,"Devanahalli, Bengaluru",North,23,24,145,209,168,2021
+88,"Cubbon Park, Bengaluru",East,3,4,29,28,32,2022
+89,"H.Grounds, Bengaluru",East,3,3,32,18,35,2022
+90,"S.S.Nagar, Bengaluru",East,8,8,44,40,52,2022
+91,"U.Gate, Bengaluru",East,1,1,25,23,26,2022
+92,"Ashoknagar, Bengaluru",East,4,4,20,15,24,2022
+93,"W.Garden, Bengaluru",East,4,5,41,40,45,2022
+94,"Ulsoor, Bengaluru",East,9,9,43,53,52,2022
+95,"Indiranagar, Bengaluru",East,7,7,23,29,30,2022
+96,"F.Town, Bengaluru",East,3,3,4,4,7,2022
+97,"Banasawadi, Bengaluru",East,19,19,79,100,98,2022
+98,"Shivajinagar, Bengaluru",East,3,3,16,20,19,2022
+99,"KG Halli, Bengaluru",East,5,5,16,19,21,2022
+100,"Adugodi, Bengaluru",East,4,4,23,27,27,2022
+101,"Madivala, Bengaluru",East,13,13,25,25,38,2022
+102,"Electronic City, Bengaluru",East,20,20,72,83,92,2022
+103,"Mico layout, Bengaluru",East,9,9,26,28,35,2022
+104,"HuliMavu, Bengaluru",East,6,7,71,66,77,2022
+105,"HSR Layout, Bengaluru",East,11,11,38,51,49,2022
+106,"K.R. Puram, Bengaluru",East,25,25,121,134,146,2022
+107,"Airport, Bengaluru",East,14,14,46,48,60,2022
+108,"White Field, Bengaluru",East,30,30,100,101,130,2022
+109,"Upparpet, Bengaluru",West,2,2,17,16,19,2022
+110,"Chickpet, Bengaluru",West,5,5,23,20,28,2022
+111,"City Market, Bengaluru",West,3,3,12,12,15,2022
+112,"Magadi Road, Bengaluru",West,2,2,11,12,13,2022
+113,"Vijayanagar, Bengaluru",West,7,7,64,72,71,2022
+114,"B.Pura, Bengaluru",West,26,27,83,77,109,2022
+115,"Kamakshipalya, Bengaluru",West,37,37,97,95,134,2022
+116,"Kengeri, Bengaluru",West,29,30,62,85,91,2022
+117,"Malleswaram, Bengaluru",West,3,3,32,30,35,2022
+118,"Rajajinagar, Bengaluru",West,18,19,61,67,79,2022
+119,"Y.Pura, Bengaluru",West,13,13,45,41,58,2022
+120,"Peenya, Bengaluru",West,25,26,103,98,128,2022
+121,"Jalahalli, Bengaluru",West,10,11,50,55,60,2022
+122,"Chamarajapet, Bengaluru",West,6,6,33,34,39,2022
+123,"Basavanagudi, Bengaluru",West,7,7,63,46,70,2022
+124,"Jayanagar, Bengaluru",West,6,6,50,56,56,2022
+125,"Banashankari, Bengaluru",West,12,13,39,44,51,2022
+126,"K. Swamy Layout, Bengaluru",West,26,28,107,126,133,2022
+127,"RT Nagar, Bengaluru",North,6,6,42,39,48,2022
+128,"Hebbala, Bengaluru",North,19,20,48,53,67,2022
+129,"Yelahanka, Bengaluru",North,38,40,111,115,149,2022
+130,"Chikkajala, Bengaluru",North,38,38,96,108,134,2022
+131,"Devanahalli, Bengaluru",North,23,24,102,139,125,2022
